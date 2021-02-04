@@ -8,7 +8,7 @@
         })
         .catch(console.error)
 </script>
-<script size="90" alpha="0.5" zIndex="0" src="https://htdfree0.htdasd.ltd/od/others/js/dongtai.js" type="text/javascript" charset="utf-8"></script>
+<script size="90" alpha="0.5" zIndex="0" src="https://cdn.jsdelivr.net/gh/sstlotr/sst2021@0.0.1/dongtai.js" type="text/javascript" charset="utf-8"></script>
 <script src='//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
 <div id="vcomments"></div>
 <script>
